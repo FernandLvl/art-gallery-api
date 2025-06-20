@@ -1,0 +1,16 @@
+# entorno virtual
+.venv/
+
+# base de datos local
+galeria.db
+
+# uploads de imágenes (para que no subas archivos multimedia)
+static/uploads/
+
+# archivos compilados o temporales de python
+__pycache__/
+*.pyc
+
+# otros que uses localmente (IDE, logs, etc)
+.vscode/
+*.log
